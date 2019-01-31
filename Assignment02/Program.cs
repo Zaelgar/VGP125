@@ -13,7 +13,7 @@ namespace Assignment02
         static void Main(string[] args)
         {
             //string path = "F:/Jaidon/Documents/GitHub/VGP125/Assignment02/files/file.csv";
-            string path = "../../files/file.csv";
+            string path = "../../files/file1.csv";
 
             List<UserData> users = Deserialize(path);
 
