@@ -12,3 +12,10 @@ F:\Jaidon\Documents\GitHub\VGP125\obj\Debug\Assignment01.csprojAssemblyReference
 F:\Jaidon\Documents\GitHub\VGP125\obj\Debug\Assignment01.csproj.CoreCompileInputs.cache
 F:\Jaidon\Documents\GitHub\VGP125\obj\Debug\Assignment01.exe
 F:\Jaidon\Documents\GitHub\VGP125\obj\Debug\Assignment01.pdb
+F:\Jaidon\Desktop\New folder\VGP125\bin\Debug\Assignment01.exe.config
+F:\Jaidon\Desktop\New folder\VGP125\bin\Debug\Assignment01.exe
+F:\Jaidon\Desktop\New folder\VGP125\bin\Debug\Assignment01.pdb
+F:\Jaidon\Desktop\New folder\VGP125\obj\Debug\Assignment01.csprojAssemblyReference.cache
+F:\Jaidon\Desktop\New folder\VGP125\obj\Debug\Assignment01.csproj.CoreCompileInputs.cache
+F:\Jaidon\Desktop\New folder\VGP125\obj\Debug\Assignment01.exe
+F:\Jaidon\Desktop\New folder\VGP125\obj\Debug\Assignment01.pdb

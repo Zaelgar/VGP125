@@ -1,4 +1,5 @@
-Id,Username,Occupation
-0,Fred,Lawyer
-1,Wilson,Farmer
-3,Emma,Doctor
+UserId,Location,Pet,Name,IsAlive
+10,Paris FR,Dog,Jason,false
+13,Witches Tower,Black Cat,Cacklesbe,true
+45,Hospital,None,Moolizza,true
+5,Homestead,Bird,Hops,false
