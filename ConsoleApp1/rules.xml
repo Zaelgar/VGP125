@@ -1,0 +1,6 @@
+﻿<root>
+  <rules>
+    <rule name ="MyFirstRule" function="Debug" value="Hello World">
+    </rule>
+  </rules>
+</root>
